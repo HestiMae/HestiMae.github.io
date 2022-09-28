@@ -1,6 +1,6 @@
 # Hestia Mae Heartstrings
 
-Hi there! If you're reading this, you're for some reason interested in the things I've done before, and the thing I might like to do in future. 
+Hi there! If you're reading this, you're for some reason interested in the things I've done before, and the things I might like to do in future. 
 
 ## Before
 
