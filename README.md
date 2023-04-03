@@ -24,6 +24,18 @@ This was packaged as an Word/Excel (online and offline) Office.JS add-in, which 
 
 The most notable part of the app was that it was data-driven - All of the specification for retrieving and manipulating data for each field from the CSV could be configured in JSON using string-specified binary and reducer operators.
 
+---
+
+I enjoy working in collaborative and open source communities in my free time. Most recently I worked on a large PR for a [mod](https://modrinth.com/mod/switchy) for _Minecraft_ that implemented a graphical frontend to the otherwise CLI-only mod.
+
+![image](https://user-images.githubusercontent.com/62225435/229393994-574873ea-7194-4b02-9d55-d4a299e69f67.png)
+
+As someone familiar with full stack development in web, the end result is visually simplistic - but it's intuitive and fits within the style and quite strict technical limitations imposed by the game and modding tools.
+
+![image](https://user-images.githubusercontent.com/62225435/229394030-7e98fb70-f688-4bd5-9e41-68ac3a6d94cc.png)
+
+I found this project very interesting to work on and collaborate with the API developer around - _Minecraft_ operates with a familiar structure of "Client" and "Server", where this interface operates purely on the "Client", while the mod itself and all data is held purely on the "Server" - bringing limitations i'm all too familiar with from standard frontend development, but boiled down to bare essentials.
+
 ## Later
 
-I'm interested in pursuing projects that challenge my software engineering skills, as well as encourage opportunities to learn more in mathematics. I like working on things that feel like real solutions to problems - not just the five-thousandth "Bespoke Enterprise IT Solution" that could've been an open-source project years ago.
+I'm interested in pursuing projects that challenge my software engineering skills, as well as encourage opportunities to learn more in mathematics. I like working on things that feel like real solutions to problems - that some end user will eventually enjoy - not just the five-thousandth copy of a bespoke enterprise solution.
