@@ -4,7 +4,7 @@ Hi there! If you're reading this, you're for some reason interested in the thing
 
 I'm a Software Engineering / Pure Maths graduate, so I've ended up making a few projects through that.
 
-One of those was a [strange TUI/CLI game made in Java](https://github.com/HestiMae/rogue-bizarre-adventure) which, over time, had it's scope run away into including many advanced features.
+One of those was a [strange TUI/CLI game made in Java](https://github.com/HestiMae/rogue-bizarre-adventure) which, over time, had its scope run away into including many advanced features.
 
 ![image](https://user-images.githubusercontent.com/62225435/192214477-c7739a1e-cf31-4ddc-a5b3-c6a83e952fdc.png)
 
